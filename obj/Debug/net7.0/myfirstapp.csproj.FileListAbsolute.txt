@@ -1,0 +1,30 @@
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\bin\Debug\net7.0\myfirstapp.exe
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\bin\Debug\net7.0\myfirstapp.deps.json
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\bin\Debug\net7.0\myfirstapp.runtimeconfig.json
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\bin\Debug\net7.0\myfirstapp.dll
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\bin\Debug\net7.0\myfirstapp.pdb
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.AssemblyInfo.cs
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.dll
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\refint\myfirstapp.dll
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.pdb
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\myfirstapp.genruntimeconfig.cache
+C:\Users\USER\Documents\Cosas de la U\.netProyects\myfirstapp\obj\Debug\net7.0\ref\myfirstapp.dll
+C:\Users\USER\Documents\.netProyects\consoleApp\bin\Debug\net7.0\myfirstapp.exe
+C:\Users\USER\Documents\.netProyects\consoleApp\bin\Debug\net7.0\myfirstapp.deps.json
+C:\Users\USER\Documents\.netProyects\consoleApp\bin\Debug\net7.0\myfirstapp.runtimeconfig.json
+C:\Users\USER\Documents\.netProyects\consoleApp\bin\Debug\net7.0\myfirstapp.dll
+C:\Users\USER\Documents\.netProyects\consoleApp\bin\Debug\net7.0\myfirstapp.pdb
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.AssemblyInfo.cs
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.dll
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\refint\myfirstapp.dll
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.pdb
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\myfirstapp.genruntimeconfig.cache
+C:\Users\USER\Documents\.netProyects\consoleApp\obj\Debug\net7.0\ref\myfirstapp.dll
