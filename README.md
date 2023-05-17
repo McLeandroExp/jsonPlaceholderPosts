@@ -1,6 +1,7 @@
 # Proyecto de ejemplo en .NET6
 
 Este proyecto es una aplicación de consola que permite consultar información de los posts de la API JSONPlaceholder.
+https://jsonplaceholder.typicode.com/
 
 ## Cómo ejecutar el proyecto
 
